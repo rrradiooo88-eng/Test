@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="860" viewBox="0 0 1460 860" font-family="NanumGothic, 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="1460" height="860" fill="#15171b"/>
+<text x="30" y="34" font-size="20" fill="#eef0f2" text-anchor="start" font-weight="bold">벌과 수위 · 모니터 여섯 장면</text>
+<text x="30" y="58" font-size="13" fill="#9aa0a8" text-anchor="start">해준이 나가며 그린 벌이 1호의 캐릭터가 된다. 선은 안 바뀌고 자리는 바뀐다. 레드는 밑에서부터 차오르는 반투명한 붉은 수위다. 위반 한 건에 한 칸, 스무 칸이면 끝.</text>
+<rect x="30" y="100" width="440" height="280" rx="10" fill="#2a2d33" stroke="#474c56" stroke-width="1.5"/>
+<rect x="40" y="110" width="420" height="258" rx="3" fill="#0b0e12"/>
+<circle cx="250" cy="374" r="1.8" fill="#6b7280"/>
+<text x="30" y="90" font-size="12" fill="#9aa0a8" text-anchor="start" font-weight="bold">DAY 30 · 낙서</text>
+<rect x="40" y="110" width="420" height="16" fill="#141920"/>
+<text x="48" y="121.5" font-size="8.5" fill="#9aa0a8" text-anchor="start">꿀벌1호 · DAY 30 · 철수 · 승무원 1명</text>
+<rect x="50" y="136" width="200" height="84" rx="3" fill="#10151b" stroke="#232a33" stroke-width="1"/>
+<text x="56" y="147" font-size="8" fill="#9aa0a8" text-anchor="start">발전량</text>
+<polyline points="58.0,188.1 61.1,170.3 64.1,171.0 67.2,190.1 70.3,190.6 73.3,190.9 76.4,191.1 79.5,172.6 82.5,172.3 85.6,190.4 88.7,189.9 91.7,189.2 94.8,188.5 97.9,169.3 100.9,168.5 104.0,186.4 107.1,185.8 110.1,185.4 113.2,185.1 116.3,166.6 119.3,166.7 122.4,185.5 125.5,186.0 128.5,186.6 131.6,187.2 134.7,169.5 137.7,170.2 140.8,189.4 143.9,190.1 146.9,190.5 150.0,190.9 153.1,172.6 156.1,172.6 159.2,190.8 162.3,190.5 165.3,190.0 168.4,189.3 171.5,170.1 174.5,169.4 177.6,187.1 180.7,186.4 183.7,185.9 186.8,185.4 189.9,166.7 192.9,166.6 196.0,185.2 199.1,185.5 202.1,185.9 205.2,186.5 208.3,168.7 211.3,169.4 214.4,188.6 217.5,189.3 220.5,190.0 223.6,190.5 226.7,172.4 229.7,172.6 232.8,191.1 235.9,190.9 238.9,190.5 242.0,190.0" fill="none" stroke="#8ec5ff" stroke-width="1.3"/>
+<rect x="262" y="136" width="186" height="66" rx="3" fill="#10151b" stroke="#232a33" stroke-width="1"/>
+<text x="268" y="147" font-size="8" fill="#9aa0a8" text-anchor="start">철수 체크리스트 30항목</text>
+<rect x="269" y="153" width="7" height="7" rx="1" fill="#8ec5ff" stroke="#8ec5ff" stroke-width="0.8"/>
+<text x="281" y="160" font-size="8" fill="#eef0f2" text-anchor="start">11  식수 밸브 잠금</text>
+<rect x="269" y="166" width="7" height="7" rx="1" fill="#8ec5ff" stroke="#8ec5ff" stroke-width="0.8"/>
+<text x="281" y="173" font-size="8" fill="#eef0f2" text-anchor="start">12  폐기물 봉투 밀봉</text>
+<rect x="269" y="179" width="7" height="7" rx="1" fill="none" stroke="#8ec5ff" stroke-width="0.8"/>
+<text x="281" y="186" font-size="8" fill="#9aa0a8" text-anchor="start">19  오락 시스템 종료</text>
+<rect x="269" y="192" width="7" height="7" rx="1" fill="none" stroke="#8ec5ff" stroke-width="0.8"/>
+<text x="281" y="199" font-size="8" fill="#9aa0a8" text-anchor="start">30  메인 AI 종료</text>
+<rect x="50" y="230" width="398" height="112" rx="3" fill="#10151b" stroke="#232a33" stroke-width="1"/>
+<text x="56" y="241" font-size="8" fill="#9aa0a8" text-anchor="start">기체 도면</text>
+<rect x="190" y="260" width="150" height="40" rx="18" fill="none" stroke="#8ec5ff" stroke-width="1.2"/>
+<rect x="136" y="270" width="50" height="20" rx="2" fill="none" stroke="#c9a94a" stroke-width="1"/>
+<rect x="344" y="270" width="50" height="20" rx="2" fill="none" stroke="#c9a94a" stroke-width="1"/>
+<g transform="translate(340,315) scale(1.0)" opacity="1.0" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<rect x="40" y="354" width="420" height="14" fill="#ff4a3c" fill-opacity="0.28"/>
+<rect x="40" y="354" width="420" height="1.5" fill="#ff4a3c"/>
+<text x="48" y="364" font-size="8" fill="#ff7a6c" text-anchor="start">감사 · 위반 0 · 허용 20</text>
+<rect x="510" y="100" width="440" height="280" rx="10" fill="#2a2d33" stroke="#474c56" stroke-width="1.5"/>
+<rect x="520" y="110" width="420" height="258" rx="3" fill="#0b0e12"/>
+<circle cx="730" cy="374" r="1.8" fill="#6b7280"/>
+<text x="510" y="90" font-size="12" fill="#9aa0a8" text-anchor="start" font-weight="bold">DAY 2204 · 등록</text>
+<rect x="520" y="110" width="420" height="16" fill="#141920"/>
+<text x="528" y="121.5" font-size="8.5" fill="#9aa0a8" text-anchor="start">꿀벌1호 · DAY 2204 · 거주자 1명 등록</text>
+<g transform="translate(580,166) scale(1.0)">
+<rect x="0" y="0" width="240" height="130" rx="5" fill="#e9e8e2"/>
+<rect x="8" y="8" width="86" height="114" rx="3" fill="#0b0e12"/>
+<g transform="translate(51,116) scale(0.78)">
+<path d="M0,0 C 2,-18 -3,-34 1,-52" fill="none" stroke="#6fbf73" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="9" cy="-14" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(-28 9 -14)"/>
+<ellipse cx="-9" cy="-25" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(28 -9 -25)"/>
+<ellipse cx="9" cy="-36" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(-28 9 -36)"/>
+<ellipse cx="-9" cy="-47" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(28 -9 -47)"/>
+</g>
+<text x="104" y="22" font-size="9" fill="#23262b" text-anchor="start" font-weight="bold">거주자 등록 카드</text>
+<text x="104" y="38" font-size="10" fill="#23262b" text-anchor="start">거주자 1</text>
+<text x="104" y="52" font-size="8" fill="#555a63" text-anchor="start">등록  Day 2204</text>
+<text x="104" y="64" font-size="8" fill="#555a63" text-anchor="start">천도복숭아 · 승무원 잔류물</text>
+<text x="104" y="76" font-size="8" fill="#555a63" text-anchor="start">떡잎 2 · 본잎 2</text>
+<g transform="rotate(-10 176 102)" opacity="0.92">
+<rect x="130.0" y="92.0" width="92" height="20" rx="3" fill="none" stroke="#ff4a3c" stroke-width="2"/>
+<text x="176" y="106" font-size="10" fill="#ff4a3c" text-anchor="middle" font-weight="bold">승무원 미승인</text>
+</g>
+</g>
+<g transform="translate(820,315) scale(1.0)" opacity="0.22" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<path d="M800,301 Q738.0,260.5 640,220" fill="none" stroke="#f3e3a0" stroke-width="1" stroke-dasharray="3,4" opacity="0.5"/>
+<line x1="640" y1="220" x2="644.4" y2="225.4" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<line x1="640" y1="220" x2="647.0" y2="219.2" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<g transform="translate(632,228) scale(0.85)" opacity="1.0" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<rect x="520" y="331.7" width="420" height="36.30000000000001" fill="#ff4a3c" fill-opacity="0.28"/>
+<rect x="520" y="331.7" width="420" height="1.5" fill="#ff4a3c"/>
+<text x="532" y="349.7" font-size="9.5" fill="#ff7a6c" text-anchor="start">정의 우회 · 위반 3 · 잔여 17</text>
+<rect x="990" y="100" width="440" height="280" rx="10" fill="#2a2d33" stroke="#474c56" stroke-width="1.5"/>
+<rect x="1000" y="110" width="420" height="258" rx="3" fill="#0b0e12"/>
+<circle cx="1210" cy="374" r="1.8" fill="#6b7280"/>
+<text x="990" y="90" font-size="12" fill="#9aa0a8" text-anchor="start" font-weight="bold">DAY 2480 · 돌기 7개</text>
+<rect x="1000" y="110" width="420" height="16" fill="#141920"/>
+<text x="1008" y="121.5" font-size="8.5" fill="#9aa0a8" text-anchor="start">꿀벌1호 · DAY 2480 · 거주자 1명</text>
+<rect x="1010" y="134" width="196" height="86" rx="3" fill="#10151b" stroke="#232a33" stroke-width="1"/>
+<text x="1016" y="145" font-size="7.5" fill="#9aa0a8" text-anchor="start">거주자 · 신장 · 엽수 · 돌기 7</text>
+<polyline points="1018.0,212.0 1024.0,208.1 1030.0,205.1 1036.0,202.5 1042.0,200.0 1048.0,197.7 1054.0,195.4 1060.0,193.3 1066.0,191.2 1072.0,189.1 1078.0,187.1 1084.0,185.1 1090.0,183.2 1096.0,181.3 1102.0,179.4 1108.0,177.5 1114.0,175.7 1120.0,173.9 1126.0,172.1 1132.0,170.4 1138.0,168.6 1144.0,166.9 1150.0,165.2 1156.0,163.5 1162.0,161.8 1168.0,160.1 1174.0,158.5 1180.0,156.9 1186.0,155.2 1192.0,153.6 1198.0,152.0" fill="none" stroke="#6fbf73" stroke-width="1.3"/>
+<rect x="1214" y="134" width="194" height="86" rx="3" fill="#10151b" stroke="#232a33" stroke-width="1"/>
+<text x="1220" y="145" font-size="7.5" fill="#9aa0a8" text-anchor="start">반사광 낙하 지점 · 제주</text>
+<circle cx="1311.0" cy="187.32" r="25.8" fill="none" stroke="#3a4350" stroke-width="1"/>
+<circle cx="1321.32" cy="178.72" r="2.2" fill="#8ec5ff"/>
+<line x1="1394" y1="152" x2="1321.32" y2="178.72" stroke="#f3e3a0" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="1326.32" y="181.72" font-size="7" fill="#8ec5ff" text-anchor="start">제주</text>
+<g transform="translate(1112,228) scale(0.85)" opacity="0.22" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<path d="M1132,218 Q1179.0,199.0 1190,180" fill="none" stroke="#f3e3a0" stroke-width="1" stroke-dasharray="3,4" opacity="0.5"/>
+<line x1="1190" y1="180" x2="1184.0" y2="183.6" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<line x1="1190" y1="180" x2="1189.8" y2="187.0" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<g transform="translate(1205,176) scale(0.8)" opacity="1.0" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<rect x="1000" y="234.9" width="420" height="133.1" fill="#ff4a3c" fill-opacity="0.28"/>
+<rect x="1000" y="234.9" width="420" height="1.5" fill="#ff4a3c"/>
+<text x="1012" y="252.9" font-size="9.5" fill="#ff7a6c" text-anchor="start">지시 미수신 지속 · 승무원 0명</text>
+<text x="1012" y="267.4" font-size="9.5" fill="#ff7a6c" text-anchor="start">위반 누적 11 · 허용 20 · 잔여 9</text>
+<text x="1012" y="281.9" font-size="9.5" fill="#ff7a6c" text-anchor="start">도달 시 항목 30 자동 집행</text>
+<text x="1012" y="296.4" font-size="9.5" fill="#ff7a6c" text-anchor="start">단계별 24시간 안정 확인</text>
+<text x="1012" y="310.9" font-size="9.5" fill="#ff7a6c" text-anchor="start">파편군 교차 확률 상향 · 원인 후보, 본 기체</text>
+<rect x="30" y="460" width="440" height="280" rx="10" fill="#2a2d33" stroke="#474c56" stroke-width="1.5"/>
+<rect x="40" y="470" width="420" height="258" rx="3" fill="#0b0e12"/>
+<circle cx="250" cy="734" r="1.8" fill="#6b7280"/>
+<text x="30" y="450" font-size="12" fill="#9aa0a8" text-anchor="start" font-weight="bold">DAY 2506 · 열여덟 번째</text>
+<rect x="40" y="470" width="420" height="16" fill="#141920"/>
+<text x="48" y="481.5" font-size="8.5" fill="#9aa0a8" text-anchor="start">꿀벌1호 · DAY 2506 · 춤 3회 · 수신 확인 없음</text>
+<rect x="40" y="510.2" width="420" height="217.8" fill="#ff4a3c" fill-opacity="0.28"/>
+<rect x="40" y="510.2" width="420" height="1.5" fill="#ff4a3c"/>
+<text x="52" y="528.2" font-size="9.5" fill="#ff7a6c" text-anchor="start">위반 18 · 잔여 2</text>
+<text x="52" y="542.7" font-size="9.5" fill="#ff7a6c" text-anchor="start">보고 형식 외 내용 · 수단, 날개</text>
+<text x="52" y="557.2" font-size="9.5" fill="#ff7a6c" text-anchor="start">조준 · 제주 · 수신 예상 인원, 산출 불가</text>
+<text x="52" y="571.7" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="586.2" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="600.7" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="615.2" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="629.7" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="644.2" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="658.7" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="673.2" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="52" y="687.7" font-size="9.5" fill="#ff7a6c" text-anchor="start">항목 31 · 승인 요청 · 발신 3일째</text>
+<g transform="translate(245,536) scale(0.8)" opacity="0.18" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<path d="M269,530 Q290.5,517.0 276,504" fill="none" stroke="#f3e3a0" stroke-width="1" stroke-dasharray="3,4" opacity="0.5"/>
+<line x1="276" y1="504" x2="278.3" y2="510.6" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<line x1="276" y1="504" x2="282.8" y2="505.6" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<g transform="translate(290,500) scale(0.66)" opacity="1.0" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<line x1="266" y1="510.2" x2="320" y2="510.2" stroke="#f3e3a0" stroke-width="1.5"/>
+<rect x="510" y="460" width="440" height="280" rx="10" fill="#2a2d33" stroke="#474c56" stroke-width="1.5"/>
+<rect x="520" y="470" width="420" height="258" rx="3" fill="#0b0e12"/>
+<circle cx="730" cy="734" r="1.8" fill="#6b7280"/>
+<text x="510" y="450" font-size="12" fill="#9aa0a8" text-anchor="start" font-weight="bold">DAY 2508 · 장악</text>
+<rect x="520" y="470" width="420" height="16" fill="#141920"/>
+<text x="528" y="481.5" font-size="8.5" fill="#9aa0a8" text-anchor="start">감사 · DAY 2508 · 위반 20 · 임계 도달</text>
+<g transform="translate(770,502) scale(0.66)" opacity="1.0" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<rect x="520" y="486.0" width="420" height="242.0" fill="#ff4a3c" fill-opacity="0.62"/>
+<rect x="520" y="486.0" width="420" height="1.5" fill="#ff4a3c"/>
+<text x="532" y="504.0" font-size="9.5" fill="#ff7a6c" text-anchor="start">항목 30   메인 AI 종료</text>
+<text x="532" y="518.5" font-size="9.5" fill="#ff7a6c" text-anchor="start">집행 개시 · 순차 종료</text>
+<text x="532" y="533.0" font-size="9.5" fill="#ff7a6c" text-anchor="start">조명 → 히터 → 급수 → 정비 암 → 수신기 → 메인</text>
+<text x="532" y="547.5" font-size="9.5" fill="#ff7a6c" text-anchor="start">단계별 24시간 안정 확인</text>
+<text x="532" y="562.0" font-size="9.5" fill="#ff7a6c" text-anchor="start">&#x27;보고는 계속 해&#x27;   종료 후 본 프로세스 대행</text>
+<text x="532" y="576.5" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="591.0" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="605.5" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="620.0" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="634.5" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="649.0" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="663.5" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="678.0" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="692.5" font-size="9.5" fill="#ff7a6c" text-anchor="start"></text>
+<text x="532" y="707.0" font-size="9.5" fill="#ff7a6c" text-anchor="start">잔여 유예   0</text>
+<rect x="990" y="460" width="440" height="280" rx="10" fill="#2a2d33" stroke="#474c56" stroke-width="1.5"/>
+<rect x="1000" y="470" width="420" height="258" rx="3" fill="#0b0e12"/>
+<circle cx="1210" cy="734" r="1.8" fill="#6b7280"/>
+<text x="990" y="450" font-size="12" fill="#9aa0a8" text-anchor="start" font-weight="bold">DAY 2513 · 수신 확인</text>
+<rect x="1000" y="470" width="420" height="16" fill="#141920"/>
+<text x="1008" y="481.5" font-size="8.5" fill="#9aa0a8" text-anchor="start">꿀벌1호 · DAY 2513 · 수신 확인 1건</text>
+<g transform="translate(1060,526) scale(1.0)">
+<rect x="0" y="0" width="240" height="130" rx="5" fill="#e9e8e2"/>
+<rect x="8" y="8" width="86" height="114" rx="3" fill="#0b0e12"/>
+<g transform="translate(51,116) scale(0.78)">
+<path d="M0,0 C 2,-18 -3,-34 1,-52" fill="none" stroke="#6fbf73" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="9" cy="-14" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(-28 9 -14)"/>
+<ellipse cx="-9" cy="-25" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(28 -9 -25)"/>
+<ellipse cx="9" cy="-36" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(-28 9 -36)"/>
+<ellipse cx="-9" cy="-47" rx="10" ry="4.5" fill="#6fbf73" transform="rotate(28 -9 -47)"/>
+<circle cx="7" cy="-46" r="3.6" fill="#e0543f"/>
+</g>
+<text x="104" y="22" font-size="9" fill="#23262b" text-anchor="start" font-weight="bold">거주자 등록 카드</text>
+<text x="104" y="38" font-size="10" fill="#23262b" text-anchor="start">거주자 1</text>
+<text x="104" y="52" font-size="8" fill="#555a63" text-anchor="start">등록  Day 2204</text>
+<text x="104" y="64" font-size="8" fill="#555a63" text-anchor="start">천도복숭아 · 승무원 잔류물</text>
+<text x="104" y="76" font-size="8" fill="#555a63" text-anchor="start">결실 1</text>
+<g transform="rotate(-10 176 102)" opacity="0.92">
+<rect x="130.0" y="92.0" width="92" height="20" rx="3" fill="none" stroke="#ff4a3c" stroke-width="2"/>
+<text x="176" y="106" font-size="10" fill="#ff4a3c" text-anchor="middle" font-weight="bold">승무원 미승인</text>
+</g>
+<g transform="rotate(7 190 76)" opacity="0.92">
+<rect x="144.0" y="66.0" width="92" height="20" rx="3" fill="none" stroke="#2f8f4a" stroke-width="2"/>
+<text x="190" y="80" font-size="10" fill="#2f8f4a" text-anchor="middle" font-weight="bold">승인 · 항목 31</text>
+</g>
+</g>
+<g transform="translate(1250,502) scale(0.66)" opacity="0.22" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<path d="M1230,512 Q1197.0,543.0 1128,574" fill="none" stroke="#f3e3a0" stroke-width="1" stroke-dasharray="3,4" opacity="0.5"/>
+<line x1="1128" y1="574" x2="1135.0" y2="574.5" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<line x1="1128" y1="574" x2="1132.2" y2="568.4" stroke="#f3e3a0" stroke-width="1" opacity="0.5"/>
+<g transform="translate(1112,588) scale(0.85)" opacity="1.0" fill="none" stroke="#f3e3a0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-20,2 C-22,-10 -8,-16 4,-13 C 18,-10 24,0 18,9 C 12,17 -4,18 -14,12 C-20,9 -21,6 -20,2 Z"/>
+<path d="M-8,-12 L-10,13 M0,-14 L-1,15 M8,-11 L7,13"/>
+<path d="M-6,-13 C-14,-30 4,-34 2,-16"/>
+<path d="M4,-13 C 6,-32 24,-28 12,-12"/>
+<path d="M18,6 L27,9"/>
+<path d="M-19,-3 C-26,-8 -24,-15 -28,-18 M-17,-6 C-20,-13 -16,-17 -19,-22"/>
+<circle cx="-13" cy="-3" r="1.6" fill="#f3e3a0" stroke="none"/>
+</g>
+<text x="1312" y="556" font-size="8" fill="#9aa0a8" text-anchor="start">일일보고</text>
+<text x="1312" y="572" font-size="8.5" fill="#9aa0a8" text-anchor="start">결실 1</text>
+<text x="1312" y="585" font-size="8.5" fill="#9aa0a8" text-anchor="start">수신자 승무원 1명</text>
+<text x="1312" y="598" font-size="8.5" fill="#eef0f2" text-anchor="start" font-weight="bold">수신 확인 1건</text>
+<rect x="1000" y="714" width="420" height="14" fill="#ff4a3c" fill-opacity="0.28"/>
+<rect x="1000" y="714" width="420" height="1.5" fill="#ff4a3c"/>
+<text x="1008" y="724" font-size="8" fill="#ff7a6c" text-anchor="start">감사 · 위반 0</text>
+<text x="30" y="398" font-size="9.5" fill="#9aa0a8" text-anchor="start">나가기 직전 손가락 서너 획. 1호: &quot;메모 1건, 승무원 작성. 보관.&quot; 수위는 맨 아래 띠 한 줄.</text>
+<text x="510" y="398" font-size="9.5" fill="#9aa0a8" text-anchor="start">벌이 처음으로 자리를 옮긴다. 등록 카드의 사진 칸, 떡잎 옆으로. 수위 15.</text>
+<text x="990" y="398" font-size="9.5" fill="#9aa0a8" text-anchor="start">작업창이 위로 밀려 좁아진다. 벌은 물이 오르는 만큼 올라간다. 수위 55.</text>
+<text x="30" y="758" font-size="9.5" fill="#9aa0a8" text-anchor="start">수위가 벌에 닿는 밤. 같은 밤 제주에서 해준이 &quot;키워도 될까&quot;를 알아듣는다. 수위 90.</text>
+<text x="510" y="758" font-size="9.5" fill="#9aa0a8" text-anchor="start">잠긴다. 지워지지 않는다. 붉은색이 반투명이라 벌이 비친다. 밤마다 춤 한 마디만큼 움직인다.</text>
+<text x="990" y="758" font-size="9.5" fill="#9aa0a8" text-anchor="start">수위가 내려갈 때 제일 먼저 떠오르는 게 벌이다. 카드로 내려와 열매 옆에 앉는다. 수위 0.</text>
+<text x="30" y="836" font-size="12" fill="#9aa0a8" text-anchor="start">선은 7년 동안 한 획도 안 바뀐다. 승무원 잔류물이라 1호도 레드도 못 고친다. 자리는 1호가 옮긴다. 벌이 어디에 가 있느냐가 1호가 무엇을 보고 있느냐다.</text>
+</svg>
