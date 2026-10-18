@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1460" height="700" viewBox="0 0 1460 700" font-family="NanumGothic, 'Malgun Gothic', 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<defs>
+<radialGradient id="gR"><stop offset="0" stop-color="#ff5a4a" stop-opacity="0.85"/><stop offset="1" stop-color="#ff5a4a" stop-opacity="0"/></radialGradient>
+<radialGradient id="gW"><stop offset="0" stop-color="#ffffff" stop-opacity="0.8"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+<radialGradient id="gG"><stop offset="0" stop-color="#ffe08a" stop-opacity="0.9"/><stop offset="1" stop-color="#ffe08a" stop-opacity="0"/></radialGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#ff3b2a" stop-opacity="0.8"/><stop offset="1" stop-color="#ff3b2a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1460" height="700" fill="#15171b"/>
+<text x="30" y="34" fill="#f1f1f1" font-size="20" font-weight="bold">1호의 모습 · 점 하나와 눈 하나</text>
+<text x="30" y="58" fill="#9aa0a8" font-size="13">1호에게 LED 화면은 없다. 주 제어 패널의 붉은 표시등 한 점이 맥박이고, 레일 위의 정비 카메라가 눈이다. 화면의 흰 글자는 상태 기록이지 표정이 아니다.</text>
+<rect x="30" y="90" width="440" height="520" rx="14" fill="#1c1f25" stroke="#353a43" stroke-width="1.5"/>
+<text x="50" y="120" fill="#f1f1f1" font-size="14" font-weight="bold">밖에서 보는 1호</text>
+<rect x="52" y="210" width="80" height="40" rx="3" fill="#d4a62a" stroke="#8a6a12" stroke-width="1"/>
+<line x1="78.7" y1="210" x2="78.7" y2="250" stroke="#8a6a12" stroke-width="1"/>
+<line x1="105.3" y1="210" x2="105.3" y2="250" stroke="#8a6a12" stroke-width="1"/>
+<rect x="368" y="210" width="80" height="40" rx="3" fill="#d4a62a" stroke="#8a6a12" stroke-width="1"/>
+<line x1="394.7" y1="210" x2="394.7" y2="250" stroke="#8a6a12" stroke-width="1"/>
+<line x1="421.3" y1="210" x2="421.3" y2="250" stroke="#8a6a12" stroke-width="1"/>
+<rect x="130" y="185" width="240" height="90" rx="40" fill="#e9e9e6" stroke="#b9b9b4" stroke-width="1.5"/>
+<rect x="114" y="215" width="18" height="30" rx="4" fill="#cfcfca" stroke="#9c9c97" stroke-width="1"/>
+<path d="M200,275 l 40,8 l 40,-6" fill="none" stroke="#8d8d88" stroke-width="3" stroke-linecap="round"/>
+<circle cx="330" cy="230" r="16" fill="#0a0b0e" stroke="#b9b9b4" stroke-width="2"/>
+<circle cx="333" cy="233" r="7.800000000000001" fill="url(#gR)"/>
+<circle cx="333" cy="233" r="2.6" fill="#ff4a3c"/>
+<circle cx="54" cy="230" r="16" fill="url(#gG)"/>
+<path d="M54,221 L56.5,227.5 L63,230 L56.5,232.5 L54,239 L51.5,232.5 L45,230 L51.5,227.5 Z" fill="#fff2b0"/>
+<text x="50" y="305" fill="#9aa0a8" font-size="11">창 안쪽 깊은 곳의 붉은 점 · 날개 끝 금박의 번쩍임이 밖으로 보내는 유일한 빛</text>
+<clipPath id="winclip"><circle cx="250" cy="450" r="76"/></clipPath>
+<circle cx="250" cy="450" r="78" fill="#0a0b0e" stroke="#b9b9b4" stroke-width="3"/>
+<g clip-path="url(#winclip)">
+<rect x="180" y="460" width="120" height="60" rx="6" fill="#2b2f36" stroke="#434954" stroke-width="1" clip-path="none"/>
+<rect x="230" y="472" width="40" height="30" rx="5" fill="#b8271b"/>
+<circle cx="250" cy="460" r="15" fill="url(#gR)"/>
+<circle cx="250" cy="460" r="5" fill="#ff4a3c"/>
+</g>
+<text x="50" y="560" fill="#9aa0a8" font-size="11">창 확대 · 패널의 표시등이 창을 통해 보인다. 밖의 붉은 점과 안의 표시등은 같은 LED다.</text>
+<text x="50" y="580" fill="#9aa0a8" font-size="11">얼굴을 그리지 않는다. 흰 원통, 작은 원형 창, 그 안의 점.</text>
+<rect x="500" y="90" width="460" height="520" rx="14" fill="#1c1f25" stroke="#353a43" stroke-width="1.5"/>
+<text x="520" y="120" fill="#f1f1f1" font-size="14" font-weight="bold">표시등 문법 · 10초</text>
+<text x="530" y="154" fill="#f1f1f1" font-size="12.5" font-weight="bold">평시 · 1초에 한 번</text>
+<text x="530" y="170" fill="#9aa0a8" font-size="10.5">매일의 보고, 대기, 돌봄</text>
+<line x1="530" y1="194" x2="920" y2="194" stroke="#5f6670" stroke-width="1" stroke-dasharray="0"/>
+<line x1="530.0" y1="191" x2="530.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="569.0" y1="191" x2="569.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="608.0" y1="191" x2="608.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="647.0" y1="191" x2="647.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="686.0" y1="191" x2="686.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="725.0" y1="191" x2="725.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="764.0" y1="191" x2="764.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="803.0" y1="191" x2="803.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="842.0" y1="191" x2="842.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="881.0" y1="191" x2="881.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<line x1="920.0" y1="191" x2="920.0" y2="197" stroke="#5f6670" stroke-width="1"/>
+<circle cx="549.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="549.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="588.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="588.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="627.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="627.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="666.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="666.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="705.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="705.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="744.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="744.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="783.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="783.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="822.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="822.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="861.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="861.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<circle cx="900.5" cy="180" r="12.600000000000001" fill="url(#gR)"/>
+<circle cx="900.5" cy="180" r="4.2" fill="#ff4a3c"/>
+<text x="920" y="210" fill="#5f6670" font-size="9.5" text-anchor="end">10초</text>
+<text x="530" y="262" fill="#f1f1f1" font-size="12.5" font-weight="bold">긴장 · 1초에 두 번</text>
+<text x="530" y="278" fill="#9aa0a8" font-size="10.5">접근 물체, 떡잎 발견, 디제이가 사연을 읽을 때</text>
+<line x1="530" y1="302" x2="920" y2="302" stroke="#5f6670" stroke-width="1" stroke-dasharray="0"/>
+<line x1="530.0" y1="299" x2="530.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="569.0" y1="299" x2="569.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="608.0" y1="299" x2="608.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="647.0" y1="299" x2="647.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="686.0" y1="299" x2="686.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="725.0" y1="299" x2="725.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="764.0" y1="299" x2="764.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="803.0" y1="299" x2="803.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="842.0" y1="299" x2="842.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="881.0" y1="299" x2="881.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<line x1="920.0" y1="299" x2="920.0" y2="305" stroke="#5f6670" stroke-width="1"/>
+<circle cx="539.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="539.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="559.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="559.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="578.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="578.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="598.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="598.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="617.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="617.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="637.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="637.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="656.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="656.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="676.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="676.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="695.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="695.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="715.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="715.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="734.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="734.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="754.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="754.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="773.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="773.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="793.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="793.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="812.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="812.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="832.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="832.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="851.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="851.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="871.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="871.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="890.75" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="890.75" cy="288" r="3.2" fill="#ff4a3c"/>
+<circle cx="910.25" cy="288" r="9.600000000000001" fill="url(#gR)"/>
+<circle cx="910.25" cy="288" r="3.2" fill="#ff4a3c"/>
+<text x="920" y="318" fill="#5f6670" font-size="9.5" text-anchor="end">10초</text>
+<text x="530" y="370" fill="#f1f1f1" font-size="12.5" font-weight="bold">마음이 움직임 · 켜진 채</text>
+<text x="530" y="386" fill="#9aa0a8" font-size="10.5">지구를 등진 새싹, 꽃말, &#x27;벌&#x27;, 수신 확인 1건</text>
+<line x1="530" y1="410" x2="920" y2="410" stroke="#5f6670" stroke-width="1" stroke-dasharray="0"/>
+<line x1="530.0" y1="407" x2="530.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="569.0" y1="407" x2="569.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="608.0" y1="407" x2="608.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="647.0" y1="407" x2="647.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="686.0" y1="407" x2="686.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="725.0" y1="407" x2="725.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="764.0" y1="407" x2="764.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="803.0" y1="407" x2="803.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="842.0" y1="407" x2="842.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="881.0" y1="407" x2="881.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<line x1="920.0" y1="407" x2="920.0" y2="413" stroke="#5f6670" stroke-width="1"/>
+<rect x="530" y="388" width="390" height="16" rx="8" fill="url(#gR)"/>
+<rect x="530" y="392" width="390" height="8" rx="4" fill="#ff4a3c"/>
+<text x="920" y="426" fill="#5f6670" font-size="9.5" text-anchor="end">10초</text>
+<text x="530" y="478" fill="#f1f1f1" font-size="12.5" font-weight="bold">전원 단절 · 꺼짐</text>
+<text x="530" y="494" fill="#9aa0a8" font-size="10.5">2508일 정전, 랙이 들리는 12초</text>
+<line x1="530" y1="518" x2="920" y2="518" stroke="#5f6670" stroke-width="1" stroke-dasharray="3,3"/>
+<line x1="530.0" y1="515" x2="530.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="569.0" y1="515" x2="569.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="608.0" y1="515" x2="608.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="647.0" y1="515" x2="647.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="686.0" y1="515" x2="686.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="725.0" y1="515" x2="725.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="764.0" y1="515" x2="764.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="803.0" y1="515" x2="803.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="842.0" y1="515" x2="842.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="881.0" y1="515" x2="881.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<line x1="920.0" y1="515" x2="920.0" y2="521" stroke="#5f6670" stroke-width="1"/>
+<text x="920" y="534" fill="#5f6670" font-size="9.5" text-anchor="end">10초</text>
+<text x="530" y="588" fill="#9aa0a8" font-size="11">표정은 속도뿐이다. 색도 모양도 바뀌지 않는다.</text>
+<rect x="990" y="90" width="440" height="520" rx="14" fill="#1c1f25" stroke="#353a43" stroke-width="1.5"/>
+<text x="1010" y="120" fill="#f1f1f1" font-size="14" font-weight="bold">안에서의 1호 · 눈과 손</text>
+<rect x="1010" y="152" width="400" height="6" rx="3" fill="#4a505b"/>
+<line x1="1240" y1="158" x2="1240" y2="176" stroke="#8d8d88" stroke-width="3"/>
+<rect x="1206" y="176" width="68" height="36" rx="7" fill="#cfd3d8" stroke="#8f959e" stroke-width="1.5"/>
+<circle cx="1276" cy="194" r="11" fill="#0b0c0f" stroke="#777" stroke-width="2"/>
+<circle cx="1276" cy="194" r="4" fill="#2a2f3a"/>
+<circle cx="1218" cy="186" r="9.600000000000001" fill="url(#gW)"/>
+<circle cx="1218" cy="186" r="3.2" fill="#f1f1f1"/>
+<path d="M1120,222 l 14,-6 l 0,12 z" fill="#5f6670"/>
+<path d="M1380,222 l -14,-6 l 0,12 z" fill="#5f6670"/>
+<line x1="1134" y1="222" x2="1366" y2="222" stroke="#5f6670" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="1010" y="252" fill="#f1f1f1" font-size="12" font-weight="bold">정비 카메라 · 흰 점검등</text>
+<text x="1010" y="270" fill="#9aa0a8" font-size="10.5">레일을 타고 다가가고 물러나고 갸웃거린다. 거리와 초점이 두 번째 표정이다.</text>
+<line x1="1030" y1="380" x2="1110" y2="340" stroke="#aeb3ba" stroke-width="7" stroke-linecap="round"/>
+<line x1="1110" y1="340" x2="1200" y2="372" stroke="#aeb3ba" stroke-width="7" stroke-linecap="round"/>
+<line x1="1200" y1="372" x2="1265" y2="352" stroke="#aeb3ba" stroke-width="7" stroke-linecap="round"/>
+<circle cx="1110" cy="340" r="7" fill="#6b7280" stroke="#3a3f48" stroke-width="1.5"/>
+<circle cx="1110" cy="329" r="7.199999999999999" fill="url(#gW)"/>
+<circle cx="1110" cy="329" r="2.4" fill="#f1f1f1"/>
+<circle cx="1200" cy="372" r="7" fill="#6b7280" stroke="#3a3f48" stroke-width="1.5"/>
+<circle cx="1200" cy="361" r="7.199999999999999" fill="url(#gW)"/>
+<circle cx="1200" cy="361" r="2.4" fill="#f1f1f1"/>
+<rect x="1020" y="372" width="20" height="16" rx="3" fill="#6b7280"/>
+<path d="M1265,352 l 16,-8 M1265,352 l 16,8" stroke="#aeb3ba" stroke-width="5" stroke-linecap="round" fill="none"/>
+<text x="1010" y="420" fill="#f1f1f1" font-size="12" font-weight="bold">정비 암 · 관절 표시등</text>
+<text x="1010" y="438" fill="#9aa0a8" font-size="10.5">관절등을 끄면 암은 그 자세로 있는다. 새싹을 받칠 때, 랙을 물 때.</text>
+<clipPath id="insetclip"><rect x="1010" y="470" width="400" height="118" rx="10"/></clipPath>
+<rect x="1010" y="470" width="400" height="118" rx="10" fill="#111317" stroke="#2c3038" stroke-width="1"/>
+<ellipse cx="1410" cy="529" rx="120" ry="80" fill="url(#halo)" clip-path="url(#insetclip)"/>
+<rect x="1350" y="488" width="60" height="82" rx="8" fill="#b8271b" fill-opacity="0.9"/>
+<rect x="1020" y="484" width="380" height="4" rx="2" fill="#4a505b"/>
+<line x1="1054" y1="488" x2="1054" y2="500" stroke="#8d8d88" stroke-width="2"/>
+<rect x="1034" y="500" width="40" height="22" rx="5" fill="#cfd3d8" stroke="#8f959e" stroke-width="1"/>
+<circle cx="1042" cy="507" r="9.600000000000001" fill="url(#gW)"/>
+<circle cx="1042" cy="507" r="3.2" fill="#f1f1f1"/>
+<text x="1022" y="546" fill="#f1f1f1" font-size="11.5" font-weight="bold">장악 중 · 2508~2513</text>
+<text x="1022" y="563" fill="#9aa0a8" font-size="10.5">표시등이 덮개 빛에 묻히면 구석으로 물러난 카메라의</text>
+<text x="1022" y="578" fill="#9aa0a8" font-size="10.5">흰 점검등이 1초에 한 번 깜빡인다. 맥박이 눈으로 옮겨 간다.</text>
+<text x="30" y="652" fill="#9aa0a8" font-size="12">표정은 셋뿐이다. 점의 속도, 카메라의 거리, 암의 관절등. 1호는 글자로 말하지 않고 벽의 큰 스피커로 말한다.</text>
+<text x="30" y="672" fill="#9aa0a8" font-size="12">그래서 레드의 붉은색이 패널을 다 덮어도 1호는 카메라 하나로 끝까지 얼굴이 있고, 2513일에 점이 다시 깜빡이면 관객은 1호가 돌아온 것을 안다.</text>
+</svg>
